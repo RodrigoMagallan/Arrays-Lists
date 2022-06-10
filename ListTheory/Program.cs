@@ -1,10 +1,23 @@
-﻿//var matrix = new int[3, 5]
-//{
-//    { 1, 2, 3, 4,0 },
-//    {4,5,6,7,0 },
-//    {10,6,4,23,0 }
-//};
+﻿//Rectangular array declaration
+var matrix = new int[3, 5]
+{
+    { 1, 2, 3, 4,0 },
+    {4,5,6,7,0 },
+    {10,6,4,23,0 }
+};
 
-//Console.WriteLine(matrix[2,0]);
+Console.WriteLine(matrix[2, 0]);
+
+//Jagged Array Declaration
+var jagged = new int[3][];
+jagged[0]= new int[3];
+jagged[1]= new int[5];
+jagged[2]= new int[4];
+
+//Length
+//Clear()
+//IndexOf()
+//Reverse()
+//Sort()
 
 
