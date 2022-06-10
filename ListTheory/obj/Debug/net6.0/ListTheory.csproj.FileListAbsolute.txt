@@ -1,0 +1,15 @@
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\bin\Debug\net6.0\ListTheory.exe
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\bin\Debug\net6.0\ListTheory.deps.json
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\bin\Debug\net6.0\ListTheory.runtimeconfig.json
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\bin\Debug\net6.0\ListTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\bin\Debug\net6.0\ListTheory.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.csproj.AssemblyReference.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.AssemblyInfoInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.AssemblyInfo.cs
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.csproj.CoreCompileInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\refint\ListTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ListTheory.genruntimeconfig.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\ListTheory\obj\Debug\net6.0\ref\ListTheory.dll
