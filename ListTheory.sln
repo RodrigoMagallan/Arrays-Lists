@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTheory", "ListTheory\ListTheory.csproj", "{D3AF22C9-5454-44BE-AFCB-14AB0337C599}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{186A2F12-2D0D-4317-8C4E-DE1578936226}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D3AF22C9-5454-44BE-AFCB-14AB0337C599}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3AF22C9-5454-44BE-AFCB-14AB0337C599}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3AF22C9-5454-44BE-AFCB-14AB0337C599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186A2F12-2D0D-4317-8C4E-DE1578936226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186A2F12-2D0D-4317-8C4E-DE1578936226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186A2F12-2D0D-4317-8C4E-DE1578936226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186A2F12-2D0D-4317-8C4E-DE1578936226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
