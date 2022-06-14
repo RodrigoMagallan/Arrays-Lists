@@ -1,0 +1,15 @@
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\bin\Debug\net6.0\Exercise5.exe
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\bin\Debug\net6.0\Exercise5.deps.json
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\bin\Debug\net6.0\Exercise5.runtimeconfig.json
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\bin\Debug\net6.0\Exercise5.dll
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\bin\Debug\net6.0\Exercise5.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.csproj.AssemblyReference.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.AssemblyInfo.cs
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.dll
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\refint\Exercise5.dll
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\Exercise5.genruntimeconfig.cache
+C:\Users\royca\Desktop\CSharpFundamentals\ListTheory\Exercise5\obj\Debug\net6.0\ref\Exercise5.dll
